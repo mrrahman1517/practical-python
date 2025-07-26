@@ -13,5 +13,7 @@ while num_bills * bill_thikness < sears_height:
 print('Number of days', day)
 print('Number of bills', num_bills)
 print('Final height', num_bills * bill_thikness)
+
+name = input('Enter your name: ')
 print('Hello', end = ' ')
-print('My name is', 'Muntasir')
+print('My name is', name)
